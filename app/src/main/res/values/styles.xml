@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.FluidLauncher" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#100F18</item><item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowActionModeOverlay">true</item><item name="android:colorAccent">#9CD8FF</item>
+    </style>
+</resources>
